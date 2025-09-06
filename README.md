@@ -16,14 +16,16 @@ Here are some ideas to get you started:
 -->
 
 # Ujjwal Singhal  
-**Senior Software Developer**  
-🌍 [GitHub](https://github.com/yourusername) • [LinkedIn](https://linkedin.com/in/yourprofile) • 📧 ujjwalsinghal27@gmail.com
+**Senior Software Developer at Aomini Marketing Solution**  
+🌍 [GitHub](https://github.com/yourusername) • [LinkedIn](https://linkedin.com/in/) • 📧 ujjwalsinghal27@gmail.com
 
 ---
 
 ## 👋 About Me
 
-Hi, I'm **Ujjwal Singhal**, a Senior Software Developer with hands-on experience in building large-scale e-commerce websites. I specialize in **Salesforce Commerce Cloud (SFCC)** and full-stack development, delivering robust, scalable, and performance-optimized web solutions.
+Hi, I'm **Ujjwal Singhal**, a Senior Software Developer currently working at **Aomini Marketing Solution**. I have extensive experience building large-scale e-commerce websites using **Salesforce Commerce Cloud (SFCC)** and modern web technologies.
+
+I specialize in full-stack development, delivering robust, scalable, and performance-optimized solutions for global brands.
 
 ---
 
@@ -80,10 +82,10 @@ A personal portfolio site template (this one!) ready to deploy on GitHub Pages.
 ## 📫 Contact
 
 - **Email**: ujjwalsinghal27@gmail.com  
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
 
 ---
+
+> ⚡ Let's build something great together!
 
 > ⚡ Let's build something great together!
 
