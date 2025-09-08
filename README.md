@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Ujjwal Singhal  
 **Senior Software Developer at Aomini Marketing Solution**  
-🌍 [GitHub](https://github.com/yourusername) • [LinkedIn](https://linkedin.com/in/) • 📧 ujjwalsinghal27@gmail.com
+🌍 [GitHub](https://github.com/yourusername) • [LinkedIn](https://www.linkedin.com/in/aomini-marketing-solution-138b981b6) • 📧 care@aominimarketingsolution.com
 
 ---
 
@@ -81,7 +81,7 @@ A personal portfolio site template (this one!) ready to deploy on GitHub Pages.
 
 ## 📫 Contact
 
-- **Email**: ujjwalsinghal27@gmail.com  
+- **Email**: care@aominimarketingsolution.com  
 
 ---
 
