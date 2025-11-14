@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Ujjwal Singhal  
 **Senior Software Developer at Cyntexa**  
-🌍 [GitHub](https://github.com/yourusername) • [LinkedIn](https://www.linkedin.com/in/aomini-marketing-solution-138b981b6) • 📧 **ujjwalsinghal27@gmail.com**
+🌍 [GitHub](https://github.com/yourusername) • [LinkedIn](https://www.linkedin.com/in/ujjwal-singhal-8690b7134/) • 📧 **ujjwalsinghal27@gmail.com**
 
 ---
 
