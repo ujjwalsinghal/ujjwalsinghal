@@ -16,76 +16,74 @@ Here are some ideas to get you started:
 -->
 
 # Ujjwal Singhal  
-**Senior Software Developer at Aomini Marketing Solution**  
-🌍 [GitHub](https://github.com/yourusername) • [LinkedIn](https://www.linkedin.com/in/aomini-marketing-solution-138b981b6) • 📧 care@aominimarketingsolution.com
+**Senior Software Developer at Cyntexa**  
+🌍 [GitHub](https://github.com/yourusername) • [LinkedIn](https://www.linkedin.com/in/aomini-marketing-solution-138b981b6) • 📧 **ujjwalsinghal27@gmail.com**
 
 ---
 
 ## 👋 About Me
 
-Hi, I'm **Ujjwal Singhal**, a Senior Software Developer currently working at **Aomini Marketing Solution**. I have extensive experience building large-scale e-commerce websites using **Salesforce Commerce Cloud (SFCC)** and modern web technologies.
+Hi, I'm **Ujjwal Singhal**, a Senior Software Developer with **5 years of experience** in the IT industry, currently working at **Cyntexa**. I have hands-on expertise in building and maintaining large-scale e-commerce platforms using **Salesforce Commerce Cloud (SFCC)** along with modern web technologies.
 
-I specialize in full-stack development, delivering robust, scalable, and performance-optimized solutions for global brands.
+I specialize in full-stack development, delivering scalable, secure, and high-performance solutions for global brands across different domains.
 
 ---
 
 ## 🛠️ Skills
 
-- Salesforce Commerce Cloud (SFCC)
+- **Salesforce Commerce Cloud (SFCC)**
 - JavaScript (ES6+)
 - HTML5, CSS3, SCSS
-- REST APIs
+- REST API Integrations
 - Git & GitHub
-- Agile Methodologies
+- Agile & Scrum
 - Performance Optimization
+- Debugging & Problem Solving
 
 ---
 
 ## 🚀 Featured Projects
 
-### [Tanishq.com](https://www.tanishq.com)
-E-commerce platform for a premium jewelry brand, built with Salesforce Commerce Cloud, optimized for high traffic and seamless shopping experience.
+### **[Tanishq.com](https://www.tanishq.com)**
+Premium jewelry e-commerce platform powered by SFCC. Contributed to end-to-end development, performance enhancements, and feature optimization.
 
 ---
 
-### [Shop.Banfield.com](https://shop.banfield.com)
-Online store for veterinary products and services. Implemented responsive design and dynamic catalog integrations.
+### **[Shop.Banfield.com](https://shop.banfield.com)**
+Online store for veterinary products. Worked on responsive UI, custom components, and backend integrations.
 
 ---
 
-### [Currys.co.uk](https://www.currys.co.uk)
-Contributed to feature rollouts and system performance improvements on one of the UK’s largest electronics retailers.
+### **[Currys.co.uk](https://www.currys.co.uk)**
+One of the UK’s largest electronics retailers. Supported feature rollouts, code optimization, and platform improvements.
 
 ---
 
-### [SSS Sports (UAE)](https://en-ae.sssports.com/)
-Led the front-end development for SSS Sports UAE site using SFCC and integrated localized features for better customer experience.
+### **[SSS Sports (UAE)](https://en-ae.sssports.com/)**
+Led front-end development using SFCC with localized features for the UAE market.
 
 ---
 
 ## 🧪 Other Projects
 
 ### **Startup Landing Page**
-A modern, mobile-first landing page built using HTML, CSS, and JS.  
-🔗 [GitHub Repo](https://github.com/yourusername/startup-landing)  
-🌐 [Live Demo](https://yourusername.github.io/startup-landing)
+A modern, mobile-first landing page built using HTML, CSS, and JavaScript.  
+🔗 GitHub Repo  
+🌐 Live Demo
 
 ---
 
 ### **Portfolio Template**
-A personal portfolio site template (this one!) ready to deploy on GitHub Pages.  
-🔗 [GitHub Repo](https://github.com/yourusername/portfolio)  
-🌐 [Live Demo](https://yourusername.github.io/portfolio)
+A clean, responsive portfolio template ready for GitHub Pages deployment.  
+🔗 GitHub Repo  
+🌐 Live Demo
 
 ---
 
 ## 📫 Contact
 
-- **Email**: care@aominimarketingsolution.com  
+- **Email**: **ujjwalsinghal27@gmail.com**
 
 ---
 
-> ⚡ Let's build something great together!
-
-> ⚡ Let's build something great together!
-
+> ⚡ *Let’s build something great together!*
